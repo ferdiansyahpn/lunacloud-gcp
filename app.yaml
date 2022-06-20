@@ -1,5 +1,5 @@
 runtime: php
-env: Standard
+env: standard
 
 runtime_config:
   document_root: web
