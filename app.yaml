@@ -1,4 +1,4 @@
-runtime: php
+runtime: php55
 env: standard
 
 runtime_config:
